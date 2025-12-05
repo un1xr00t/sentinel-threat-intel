@@ -435,7 +435,7 @@ If SENTINEL has saved you time or money, consider:
 
 ## 📬 Contact
 
-- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/william-thomas7/)
+- LinkedIn: [[My LinkedIn]](https://www.linkedin.com/in/william-thomas7/)
 
 ---
 
