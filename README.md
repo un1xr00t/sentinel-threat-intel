@@ -12,7 +12,7 @@
 
 ## 🎯 What is SENTINEL?
 
-SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n.io) that aggregates, enriches, scores, and alerts on cybersecurity threats in real-time. It monitors 40+ authoritative sources and delivers actionable intelligence directly to your Discord server.
+SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n.io) that aggregates, enriches, scores, and alerts on cybersecurity threats in real-time. It monitors 28+ authoritative sources and delivers actionable intelligence directly to your Discord server.
 
 **This is not a toy project.** This is production-ready architecture with:
 - Fingerprint-based deduplication to prevent alert fatigue
@@ -28,7 +28,7 @@ SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n
 | Feature | Commercial Solutions | SENTINEL |
 |---------|---------------------|----------|
 | Annual Cost | $50,000 - $500,000 | **$0 - $20/month** |
-| Threat Sources | 10-50 | **40+** |
+| Threat Sources | 10-50 | **28+** |
 | CVE Enrichment | ✅ | ✅ |
 | EPSS Scoring | Sometimes | ✅ |
 | AI Analysis | Premium tier | ✅ |
@@ -39,7 +39,7 @@ SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n
 
 ## ✨ Features
 
-### 📡 Intelligence Sources (40+)
+### 📡 Intelligence Sources (28+)
 
 **Government & Official Advisories**
 - CISA Advisories & News
@@ -137,7 +137,7 @@ Optional integration with OpenAI GPT-4o-mini provides:
 - Recommended actions
 - Risk assessment with justification
 
-**Cost:** ~$0.01-0.05 per alert (only triggered for scored items)
+**Cost:** ~$0.0002 per alert (fraction of a cent)
 
 ---
 
@@ -347,8 +347,8 @@ Based on typical threat landscape activity:
 | Discord | Free |
 | NVD API | Free |
 | EPSS API | Free |
-| OpenAI (optional) | ~$0.50-3/month |
-| **Total** | **$0-23/month** |
+| OpenAI (optional) | ~$0.05-0.50/month |
+| **Total** | **$0-21/month** |
 
 ---
 
@@ -429,7 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If SENTINEL has saved you time or money, consider:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/YOUR_USERNAME)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/whthomas22)
 
 ---
 
