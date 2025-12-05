@@ -12,7 +12,7 @@
 
 ## 🎯 What is SENTINEL?
 
-SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n.io) that aggregates, enriches, scores, and alerts on cybersecurity threats in real-time. It monitors 28+ authoritative sources and delivers actionable intelligence directly to your Discord server.
+SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n.io) that aggregates, enriches, scores, and alerts on cybersecurity threats in real-time. It monitors 20+ authoritative sources and delivers actionable intelligence directly to your Discord server.
 
 **This is not a toy project.** This is production-ready architecture with:
 - Fingerprint-based deduplication to prevent alert fatigue
@@ -28,7 +28,7 @@ SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n
 | Feature | Commercial Solutions | SENTINEL |
 |---------|---------------------|----------|
 | Annual Cost | $50,000 - $500,000 | **$0 - $20/month** |
-| Threat Sources | 10-50 | **28+** |
+| Threat Sources | 10-50 | **20+** |
 | CVE Enrichment | ✅ | ✅ |
 | EPSS Scoring | Sometimes | ✅ |
 | AI Analysis | Premium tier | ✅ |
@@ -39,7 +39,7 @@ SENTINEL is an automated threat intelligence platform built on [n8n](https://n8n
 
 ## ✨ Features
 
-### 📡 Intelligence Sources (28+)
+### 📡 Intelligence Sources (20+)
 
 **Government & Official Advisories**
 - CISA Advisories & News
@@ -435,9 +435,7 @@ If SENTINEL has saved you time or money, consider:
 
 ## 📬 Contact
 
-- LinkedIn: [Your LinkedIn]
-- Twitter: [@YourHandle]
-- Email: your.email@example.com
+- LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/william-thomas7/)
 
 ---
 
